@@ -1,0 +1,76 @@
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\appsettings.json
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\test_app.staticwebassets.runtime.json
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\test_app.exe
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\test_app.deps.json
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\test_app.runtimeconfig.json
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\test_app.dll
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\test_app.pdb
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.csproj.AssemblyReference.cache
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.AssemblyInfoInputs.cache
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.AssemblyInfo.cs
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.csproj.CoreCompileInputs.cache
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.RazorAssemblyInfo.cache
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.RazorAssemblyInfo.cs
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\staticwebassets\msbuild.test_app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\staticwebassets\msbuild.build.test_app.props
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.test_app.props
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.test_app.props
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\scopedcss\bundle\test_app.styles.css
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\scopedcss\projectbundle\test_app.bundle.scp.css
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.dll
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\refint\test_app.dll
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.pdb
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.genruntimeconfig.cache
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\ref\test_app.dll
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ABCD\Desktop\test_app\test_app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ABCD\Desktop\test_app\test_app\obj\Debug\net6.0\test_app.csproj.CopyComplete
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\appsettings.Development.json
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\appsettings.json
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\test_app.staticwebassets.runtime.json
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\test_app.exe
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\test_app.deps.json
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\test_app.runtimeconfig.json
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\test_app.dll
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\test_app.pdb
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\lessy loading\Lazy-Loading-\test_app\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.csproj.AssemblyReference.cache
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.AssemblyInfoInputs.cache
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.AssemblyInfo.cs
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.csproj.CoreCompileInputs.cache
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.MvcApplicationPartsAssemblyInfo.cache
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.RazorAssemblyInfo.cache
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.RazorAssemblyInfo.cs
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\staticwebassets\msbuild.test_app.Microsoft.AspNetCore.StaticWebAssets.props
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\staticwebassets\msbuild.build.test_app.props
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.test_app.props
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.test_app.props
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\staticwebassets.pack.json
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\staticwebassets.build.json
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\staticwebassets.development.json
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\scopedcss\bundle\test_app.styles.css
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\scopedcss\projectbundle\test_app.bundle.scp.css
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.csproj.CopyComplete
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.dll
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\refint\test_app.dll
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.pdb
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\test_app.genruntimeconfig.cache
+D:\lessy loading\Lazy-Loading-\test_app\obj\Debug\net6.0\ref\test_app.dll

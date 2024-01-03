@@ -1,0 +1,109 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+@using System.Data
+@model DataTable
+<style>
+    /* Loader styles */
+    .loader-container {
+        position: fixed;
+        bottom: 10%;
+        /*left: 0;*/
+        width: 90%;
+        height: 20%;
+        background-color: rgba(0, 0, 0, 0.7);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+    .loader {
+        border: 8px solid #f3f3f3; /* Light grey */
+        border-top: 8px solid #3498db; /* Blue */
+        border-radius: 50%;
+        width: 60px;
+        height: 60px;
+        animation: spin 2s linear infinite;
+    }
+
+    @@keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+</style>
+<div class="loader-container" style="display:none;">
+    <div class="loader"></div>
+</div>
+<div class="container-fluid">
+    <div>
+        <h3>Data List</h3>
+        <table class="table table-responsive table-bordered table-active table-hover" width="100%">
+            <thead>
+                <tr>
+                    <th>Sr.</th>
+                    <th>Category</th>
+                    <th>Product Name</th>
+                    <th>Size</th>
+                    <th>Unit</th>
+                    <th>Qty</th>
+                    <th>BV</th>
+                    <th>Total BV</th>
+                    <th>MRP</th>
+                    <th>Total Mrp</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Rows.Count > 0)
+                {
+                    // int i = 1;
+                    foreach (DataRow row in Model.Rows)
+                    {
+                        <tr class="recordlength" tblcountlen="@Model.Rows.Count">
+                            <td>@row["selector_row"]</td>
+                            <td>@row["Category"]</td>
+                            <td>@row["Product Name"]</td>
+                            <td>@row["Size"]</td>
+                            <td>@row["Unit"]</td>
+                            <td>@row["Qty"]</td>
+                            <td>@row["BV"]</td>
+                            <td>@row["Total BV"]</td>
+                            <td>@row["MRP"]</td>
+                            <td>@row["Total Mrp"]</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+        @* <div class="text-center" id="loader" style="display:none;">
+        <img src="~/loading.gif" height="50" width="50"/>
+        </div>*@
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.css" />
+
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.js"></script>
+
+<script>
+    $(document).ready(function () {
+        let page = 1
+        $(window).scroll(function () {
+            if ($(window).scrollTop() + $(window).height() >= $(document).height() - 1 && $(".recordlength:last").attr("tblcountlen") >= 20) {
+                $(".loader-container").show()
+                $.get("/Home/Index", { page: page }, function (data) {
+                    if (data != null) {
+                        page++
+                        $("tbody").append($(data).find("tbody").html())
+                    }
+                    $(".loader-container").hide()
+                });
+            }
+        })
+    });
+</script>
